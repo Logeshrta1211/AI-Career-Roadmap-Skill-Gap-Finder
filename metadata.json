@@ -1,0 +1,6 @@
+{
+  "name": "CareerPath AI",
+  "description": "AI-powered career roadmap planner, skill gap analyzer, and 8-week learning tracker powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
