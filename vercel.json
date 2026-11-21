@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://ai-career-roadmap-skill-gap-finder.onrender.com//api/:path*"
+    }
+  ]
+}
